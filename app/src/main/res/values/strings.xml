@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Elevate</string>
+
+    <string name="mood_prompt">How are you feeling right now?</string>
 </resources>

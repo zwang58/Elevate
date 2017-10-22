@@ -12,7 +12,7 @@ public class MainActivity extends FragmentActivity {
 
         if (findViewById(R.id.fragment_container) != null) {
             getSupportFragmentManager().beginTransaction().
-                    add(R.id.fragment_container, new ToDoFragment()).commit();
+                    add(R.id.fragment_container, new MoodFragment()).commit();
         }
     }
 }

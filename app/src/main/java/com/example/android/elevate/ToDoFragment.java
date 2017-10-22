@@ -30,7 +30,6 @@ public class ToDoFragment extends Fragment {
         mRecyclerView.setAdapter(mAdapter);
         return rootView;
     }
-
 }
 
 
